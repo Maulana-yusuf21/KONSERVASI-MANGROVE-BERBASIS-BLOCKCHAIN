@@ -18,3 +18,9 @@ Pilih salah satu opsi:
 - [Download PDF Lengkap](https://github.com/arry-hutomo/KONSERVASI-MANGROVE-BERBASIS-BLOCKCHAIN/raw/main/Tutorial%20Konservasi%20Mangrove%20di%20Indonesia.pdf)  
 - Link Langsung ke PDF di GitHub
 [Tutorial Konservasi Mangrove di Indonesia.pdf](https://github.com/arry-hutomo/KONSERVASI-MANGROVE-BERBASIS-BLOCKCHAIN/blob/main/Tutorial%20Konservasi%20Mangrove%20di%20Indonesia.pdf)
+Kelompok 1:
+Farhan Fadillah (9.008.DB2025)
+Anindya Avisa (9.004.DB2025)
+Maulana Yusuf (9.021.DB2025)
+Muhammad Raditya Aisy Dharmawan (9.056.DB2025)
+
